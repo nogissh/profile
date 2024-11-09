@@ -1,3 +1,3 @@
 # Profile
 
-https://www.toshikiohnogi.net
+https://www.nogissh.com
