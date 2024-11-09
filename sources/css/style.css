@@ -27,3 +27,7 @@ p {
   width: 100% !important;
   height: 100% !important;
 }
+
+.sns-link-block {
+  margin: 0 8px;
+}
